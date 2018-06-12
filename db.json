@@ -1,0 +1,57 @@
+{
+	"Modules": [{
+		"Name": "Ancient & Modern",
+		"Key": "A&M",
+		"TypeID": "1",
+		"LanguageID": "1",
+		"Store": "AandM.db",
+		"NumberOfParts": 636,
+		"Description": "Hymns Ancient and Modern (Revised) 1945"
+	},
+	{
+		"Name": "Sacred Songs And Solos",
+		"Key": "SS&S",
+		"TypeID": "1",
+		"LanguageID": "1",
+		"Store": "SSS.db",
+		"NumberOfParts": 1200,
+		"Description": "Sacred Songs And Solos (1960)"
+	},
+	{
+		"Name": "Methodist Hymn Book",
+		"Key": "MHB",
+		"TypeID": "1",
+		"LanguageID": "1",
+		"Store": "MHB.db",
+		"NumberOfParts": 621,
+		"Description": "Methodist Hymn Book"
+	},
+	{
+		"Name": "Disciples Hymn Book",
+		"Key": "DHB",
+		"TypeID": "1",
+		"LanguageID": "1",
+		"Store": "DHB.db",
+		"NumberOfParts": 225,
+		"Description": "Disciples Hymn Book"
+	},
+	{
+		"Name": "Abu Iji Kpere Chineke",
+		"Key": "Abu",
+		"TypeID": "1",
+		"LanguageID": "2",
+		"Store": "Abu.db",
+		"NumberOfParts": 400,
+		"Description": "Ekpere Na Abu"
+	},
+	{
+		"Name": "Ukwe Onitsha",
+		"Key": "Ukwe",
+		"TypeID": "1",
+		"LanguageID": "2",
+		"Store": "Ukwe.db",
+		"NumberOfParts": 150,
+		"Description": "Ukwe Onitsha"
+	}
+	]
+}	
